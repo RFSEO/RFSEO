@@ -1,9 +1,8 @@
-<div align="center">
+| [KR 한국어](./ko.md) | [US English](../../README.md) | [JP 日本語](./ja.md) | [CN 简体中文](./zh-CN.md) | [ES Español](./es.md) |
+| :---: | :---: | :---: | :---: | :---: |
+| [FR Français](./fr.md) | [DE Deutsch](./de.md) | [RU Русский](./ru.md) | [BR Português](./pt-BR.md) | [SA العربية](./ar.md) |
 
-<p align="center">
-  <a href="../../README.md">🇺🇸 English</a> · <a href="./ko.md">🇰🇷 한국어</a> · <a href="./zh-CN.md">🇨🇳 中文</a> · <a href="./es.md">🇪🇸 Español</a> · <a href="./hi.md">🇮🇳 हिन्दी</a><br />
-  <a href="./ar.md">🇸🇦 العربية</a> · <a href="./pt-BR.md">🇧🇷 Português</a> · <a href="./ru.md">🇷🇺 Русский</a> · <a href="./fr.md">🇫🇷 Français</a> · <a href="./id.md">🇮🇩 Bahasa Indonesia</a>
-</p>
+<div align="center">
 
 # 你好，我是 Alex Miller (@RFSEO) 👋
 
@@ -39,28 +38,20 @@
 | **Languages** | `Rust`, `Go`, `TypeScript`, `JavaScript`, `C/C++`, `Python`, `SQL` |
 | **Systems & Kernel** | `Linux (POSIX)`, `eBPF`, `IPC / Shared Memory`, `Multi-threading`, `Async I/O` |
 | **Data & Storage** | `PostgreSQL`, `Redis`, `SQLite`, `RocksDB`, `Kafka / Redpanda` |
-| **Cloud & DevOps** | `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions`, `Cloudflare`, `Linux Server Admin` |
+| **Cloud & DevOps** | `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions`, `Cloudflare` |
 | **Networking & Protocols** | `gRPC`, `HTTP/2 & HTTP/3`, `WebSockets`, `TLS 1.3`, `ZeroMQ` |
 
 ---
 
-### 📊 Stats & Activity
+### 📊 GitHub Activity & Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RFSEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RFSEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFSEO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
 
-### 🌐 Ecosystem
-
-- **GitHub**: [@RFSEO](https://github.com/RFSEO)
-- **GitLab**: [@alexmiller394](https://gitlab.com/alexmiller394)
-- **Hugging Face**: [@alexmiller394](https://huggingface.co/alexmiller394)
-
----
-
 <div align="center">
-  <sub>Alex Miller · Open to collaborations and challenging engineering projects.</sub>
+  <sub>Crafted with care by Alex Miller · Open to collaborations & technical discussions.</sub>
 </div>
